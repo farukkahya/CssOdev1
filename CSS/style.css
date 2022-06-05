@@ -1,0 +1,74 @@
+header  h1{
+    text-align: center;
+    color: #242F9B;
+    margin-bottom: 10px;
+}
+header h1 a {
+    text-decoration: none;
+}
+body {
+    background-color: #DBDFFD;
+}
+nav ul {
+    list-style-type: none;
+    display: table;
+    margin: 10px auto;
+    padding: 0;
+    overflow: hidden;
+}
+nav ul li {
+    list-style: none;
+    display: table-cell;
+    vertical-align: middle;
+}
+nav ul li a{
+    color: #646FD4;
+    font-family:monospace;
+    display: inline-block;
+    padding: 16px;
+    text-decoration: none;
+}
+nav ul li a:hover{
+    color: #19226e;
+}
+
+div h2 {
+    text-align: center;
+    color:#242F9B;
+    font-family: 'Joan', serif;
+}
+div h3 {
+    margin-left: 20px;
+    color:#242F9B;
+    font-family: 'Joan', serif;
+}
+div p {
+    text-align: center;
+    color:#646FD4;
+    font-family: 'Joan', serif;
+}
+#hakkimizda {
+    text-align: left;
+    margin-left: 50px;
+    font-size: 18px;
+
+}
+#phoneNumber {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 18px;
+    margin-left: 50px;
+}
+#address {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: left;
+    font-size: 18px;
+    margin-left: 50px;
+}
+.tercih-liste {
+    color:#646FD4;
+    font-size: 20px;
+    display: table;
+    margin: 10px auto;
+    padding: 0;
+}
